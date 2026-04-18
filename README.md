@@ -230,9 +230,8 @@ MIT License. See `LICENSE` file for details.
 
 ## Contact
 
-**Saad**  
-Computer Science Student  
-Islamia University of Bahawalpur, Faculty of Computing
+**Saad Hassan Faisal**  
+Software Engineering Student  
 
 [GitHub](https://github.com/SaadHassanFaisal) • [LinkedIn](www.linkedin.com/in/saad-hassan-b5782a361)
 
